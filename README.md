@@ -30,7 +30,6 @@ To achieve optimal predictive performance, the model went through three core sta
 ## 📁 Repository Structure
 
 * `lol_nerf_prediction.R` — Main R script containing data cleansing, feature engineering, looping mechanisms, model training, and cross-table validation.
-* `league-analysis-presentation.pdf` — Comprehensive business and analytical summary presentation containing project insights, charts, and final conclusions.
 * `*.csv` — Sequential patch data files containing champion statistics used as input dataframes.
 
 ---
